@@ -1,2 +1,3 @@
-# argosyjs.github.io
+# argosy.io
+
 Argosy website
